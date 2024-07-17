@@ -38,6 +38,6 @@ This is a simple Pomodoro timer application with a flip clock effect, built usin
 
 ## Screenshots
 
-![Pomodoro Timer](![image](https://github.com/user-attachments/assets/e159e189-f4f0-4afc-aa9f-a5a18cd541ad)
-)
+(https://github.com/user-attachments/assets/e159e189-f4f0-4afc-aa9f-a5a18cd541ad)
+
 
